@@ -1,0 +1,93 @@
+nav{
+    height: 63px;
+}
+
+a{
+    float: right;
+    color: white;
+    top: 0px;
+    font-style: oblique;
+    background-color: mediumvioletred;
+    position: absolute;
+    width:100px;
+    border: 0px ;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    text-decoration: none;     
+    font-weight: bold;
+}
+
+a:hover{
+    box-shadow: inset;
+    color: pink;
+}
+.name h1{
+    font-size: 100px;
+    color:rosybrown;
+    font-stretch: expanded;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position:absolute;
+    top:30%;
+    text-align: center;
+    left: 30%;
+}
+.name p{
+    font-size: 20px;
+    color: rosybrown;
+    font-family:cursive;
+    position: absolute;
+    top:60%;
+    text-align: center;
+    left:20%;
+}
+
+.skill h2{
+    font-size: 60px;
+    color:hotpink;
+    font-stretch: expanded;
+    font-family: cursive;
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    text-align: center;
+}
+.skill ul{
+    font-size: 30px;
+    color:darksalmon;
+    font-family: cursive;
+    position: absolute;
+    top:70%;
+    left: 35%;
+    text-align:justify;
+}
+
+.pro h1{
+    font-size: 50px;
+    color:darkolivegreen;
+    font-stretch: expanded;
+    font-family: cursive;
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    text-align: center;
+}
+
+.pro h3{
+    font-size: 30px;
+    color:darkolivegreen;
+    font-stretch: expanded;
+    font-family: cursive;
+    position: absolute;
+    left: 15%;
+    text-align: left;
+}
+
+.pro ul{
+    font-size: 20px;
+    color:gray;
+    font-family: cursive;
+    position: absolute;
+    left: 20%;
+    text-align:justify;
+}
